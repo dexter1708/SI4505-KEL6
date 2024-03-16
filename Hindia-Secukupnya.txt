@@ -2,4 +2,8 @@ Kapan terakhir kali kamu dapat tertidur tenang
 Tak perlu memikirkan tentang apa yang datang di esok hari
 Hari ini kurasa bahagia
 Bersama saudara seiman
+<<<<<<< HEAD
 cinta satu malam oh indahnya
+=======
+Tak menunggu dirimu datang
+>>>>>>> f6d1de33ced3bc190c686f14a840e5823c663f35
